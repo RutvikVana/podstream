@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "react-google-login": "^5.2.2"
+  },
+  "name": "podstream-main",
+  "description": "<div align='center'>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
